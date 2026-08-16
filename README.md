@@ -15,6 +15,8 @@ I combine a rigorous research-driven foundation (**PhD**) and 10+ years of stati
 ---
 
 ### 📊 Featured Data Analytics Projects
+- 🎮 **[Mobile Game Player Engagement & Battle Pass Dashboard](https://github.com/oleksandr-hordashevskyi/mobile-game-engagement-tableau)** — Product analytics dashboard evaluating MAU, Battle Pass adoption rates, time spent (LOD expressions), and age-group heatmaps in Tableau.
+- 📈 **[User Retention Analysis: Promo vs. Organic Acquisition](https://github.com/oleksandr-hordashevskyi/User-Retention-Analysis-Promo-vs.-Organic-Acquisitio)** — Cohort and retention analysis comparing user acquisition channels and long-term engagement dynamics.
 <!-- Projects will be linked here -->
 
 ---
@@ -28,5 +30,6 @@ I combine a rigorous research-driven foundation (**PhD**) and 10+ years of stati
 
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/oleksandr-hordashevskyi](https://www.linkedin.com/in/oleksandr-hordashevskyi/)
+- **Tableau Public:** [oleksandr.hordashevskyi](https://public.tableau.com/app/profile/oleksandr.hordashevskyi/vizzes)
 - **Email:** [o.hordashevskyi@gmail.com](mailto:o.hordashevskyi@gmail.com)
 - **Telegram:** [@Alex_Hordash](https://t.me/Alex_Hordash)
