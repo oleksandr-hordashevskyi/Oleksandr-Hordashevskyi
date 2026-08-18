@@ -1,5 +1,5 @@
 # Hi there, I'm Oleksandr Hordashevskyi 👋
-### Junior Data Analyst | Quantitative Research & Business Intelligence
+### Data Analyst | Quantitative Research & Business Intelligence
 
 I combine a rigorous research-driven foundation (**PhD**) and 10+ years of statistical data analysis with modern data analytics tools. With a strong background in academic lecturing and clinical research, I specialize in translating complex data into clear, actionable business decisions for both technical and non-technical stakeholders.
 
