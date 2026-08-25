@@ -18,7 +18,7 @@ I combine a rigorous research-driven foundation (**PhD**) and 10+ years of stati
 - 🎮 **[Mobile Game Player Engagement & Battle Pass Dashboard](https://github.com/oleksandr-hordashevskyi/mobile-game-engagement-tableau)** — Product analytics dashboard evaluating MAU, Battle Pass adoption rates, time spent (LOD expressions), and age-group heatmaps in Tableau.
 - 📈 **[User Retention Analysis: Promo vs. Organic Acquisition](https://github.com/oleksandr-hordashevskyi/User-Retention-Analysis-Promo-vs.-Organic-Acquisition)** — End-to-end cohort and retention analysis comparing user acquisition channels, long-term retention dynamics, and customer lifetime value using SQL and visualization tools.
 - 💳 **[SaaS Revenue & Cohort Retention Analysis](https://github.com/oleksandr-hordashevskyi/saas-revenue-cohort-analysis-tableau)** — Financial and subscription analytics in Tableau modeling New MRR, monthly revenue trends, cohort matrix retention, and customer growth rates using Table Calculations and LOD expressions.
-- * 🎵 [Media Streaming: Onboarding Funnel & Retention Analysis](https://github.com/oleksandr-hordashevskyi/media-streaming-amplitude-analytics) — Product analytics in Amplitude tracking mobile onboarding funnels (iOS vs. Android), conversion drop-offs, time-to-first-value, and Day 0–30 retention dynamics across a 64k US user cohort.
+- 🎵 [Media Streaming: Onboarding Funnel & Retention Analysis](https://github.com/oleksandr-hordashevskyi/media-streaming-amplitude-analytics) — Product analytics in Amplitude tracking mobile onboarding funnels (iOS vs. Android), conversion drop-offs, time-to-first-value, and Day 0–30 retention dynamics across a 64k US user cohort.
 <!-- Projects will be linked here -->
 
 ---
