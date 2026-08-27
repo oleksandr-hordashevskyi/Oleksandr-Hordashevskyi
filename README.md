@@ -15,6 +15,7 @@ I combine a rigorous research-driven foundation (**PhD**) and 10+ years of stati
 ---
 
 ### 📊 Featured Data Analytics Projects
+- 🎯 **[Mobile App Marketing Performance & ROAS Analytics](https://github.com/oleksandr-hordashevskyi/Mobile-app-marketing-performance-tableau)** – User Acquisition and Unit Economics intelligence dashboard in Tableau powered by Google BigQuery SQL pipelines, evaluating cross-channel blended ROAS, monetization dynamics (IAP vs. Ad Revenue), and campaign break-even performance.
 - 🎮 **[Mobile Game Player Engagement & Battle Pass Dashboard](https://github.com/oleksandr-hordashevskyi/mobile-game-engagement-tableau)** — Product analytics dashboard evaluating MAU, Battle Pass adoption rates, time spent (LOD expressions), and age-group heatmaps in Tableau.
 - 📈 **[User Retention Analysis: Promo vs. Organic Acquisition](https://github.com/oleksandr-hordashevskyi/User-Retention-Analysis-Promo-vs.-Organic-Acquisition)** — End-to-end cohort and retention analysis comparing user acquisition channels, long-term retention dynamics, and customer lifetime value using SQL and visualization tools.
 - 💳 **[SaaS Revenue & Cohort Retention Analysis](https://github.com/oleksandr-hordashevskyi/saas-revenue-cohort-analysis-tableau)** — Financial and subscription analytics in Tableau modeling New MRR, monthly revenue trends, cohort matrix retention, and customer growth rates using Table Calculations and LOD expressions.
