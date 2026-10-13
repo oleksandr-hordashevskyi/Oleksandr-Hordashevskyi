@@ -6,11 +6,12 @@ I combine a rigorous research-driven foundation (**PhD**) and 10+ years of stati
 ---
 
 ### 🛠 Technical Toolkit
-- **Querying & Databases:** SQL (PostgreSQL, BigQuery), DBeaver
-- **BI & Visual Analytics:** Power BI, Tableau, Looker Studio, Google Analytics, Advanced Excel / Google Sheets
-- **Programming & Scripting:** Python (Pandas, NumPy, Matplotlib) - (in progress)
-- **Product & Business Analytics:** Cohort Analysis, Retention, Unit Economics (MRR, LTV, Churn), Amplitude, - A/B Testing - (in progress)
-- **Version Control & Environment:** Git, GitHub, VS Code
+- **Querying & Databases:** SQL (PostgreSQL, BigQuery), DBeaver.
+- **BI & Visual Analytics:** Power BI, Tableau, Looker Studio, Google Analytics, Advanced Excel / Google Sheets.
+- **Programming & Scripting:** Python (Pandas, NumPy, Matplotlib).
+- **Product & Business Analytics:** Cohort Analysis, Retention, Unit Economics (MRR, LTV, Churn), Amplitude, - A/B Testing.
+- **Version Control & Environment:** Git, GitHub, VS Code.
+- **Additional:** Jira, API, AI-tools.
 
 ---
 
