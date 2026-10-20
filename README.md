@@ -16,6 +16,7 @@ I combine a rigorous research-driven foundation (**PhD**) and 10+ years of stati
 ---
 
 ### 📊 Featured Data Analytics Projects
+- 🛒 **[E-Commerce Funnel & Conversion Intelligence Dashboard](https://github.com/oleksandr-hordashevskyi/Ecommerce-funnel-conversion-analytics-tableau)** – Multi-stage customer journey & conversion optimization in Tableau powered by Google BigQuery GA4 data, featuring symmetrical dual-axis funnel visualization, drop-off diagnostics, and acquisition channel efficiency.
 - 🎯 **[Mobile App Marketing Performance & ROAS Analytics](https://github.com/oleksandr-hordashevskyi/Mobile-app-marketing-performance-tableau)** – User Acquisition and Unit Economics intelligence dashboard in Tableau powered by Google BigQuery SQL pipelines, evaluating cross-channel blended ROAS, monetization dynamics (IAP vs. Ad Revenue), and campaign break-even performance.
 - 📂 **[Multi-Channel Marketing Analytics: Campaign Performance & Efficiency Dashboard](https://github.com/oleksandr-hordashevskyi/marketing-performance-analytics-tableau)** — End-to-end marketing analytics in Tableau Public powered by SQL ETL in PostgreSQL, modeling spend-to-lead correlation (77.76%), CPL, ROMI, and multi-channel campaign efficiency across Google & Facebook Ads.
 - 🎮 **[Mobile Game Player Engagement & Battle Pass Dashboard](https://github.com/oleksandr-hordashevskyi/mobile-game-engagement-tableau)** — Product analytics dashboard evaluating MAU, Battle Pass adoption rates, time spent (LOD expressions), and age-group heatmaps in Tableau.
